@@ -1,4 +1,5 @@
-Notes from Dave
+Notes from Dave - Aug 2024
+
 #to save your details to git so you don't need to put in your password each time
 git config --global credential.helper store
 
