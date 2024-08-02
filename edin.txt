@@ -1,3 +1,4 @@
+Notes from Dave
 
 # initialize .git on filesystem
 git init
