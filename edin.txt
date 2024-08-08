@@ -38,7 +38,7 @@ git push
 
 
 ## change a file
-## setup an alias in ~/.bash_aliases
+## setup an alias in ~/.bash_aliases  or    gedit ~/.bashrc
 # alias p='git add . && git commit -m "auto" && git push'
 
 git pull
